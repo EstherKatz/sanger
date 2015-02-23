@@ -5,10 +5,11 @@
         <prepDate>2014/01/09 CH</prepDate>
         <prepDate>2014-01-15 CH proof</prepDate>
         <prepDate>2014-11-10 CH clean regs</prepDate>
+        <prepDate>2015-02-20 EK correct indezx</prepDate>
         <docAuthor>Margaret Sanger</docAuthor>
-        <docDate value="1911-12-17">17 Dec 1911</docDate>
+        <docDate value="1911-12-17">17 Dec. 1911</docDate>
         <docTitle>
-            <titlePart>How Six Little Children Were Taught the Truth--Conculsion</titlePart>
+            <titlePart>How Six Little Children Were Taught the Truth--Conclusion, Part 8</titlePart>
         </docTitle>
         <idno>msp320088</idno>
         <sourceDesc>
@@ -19,7 +20,8 @@
             <name/>
         </respStmt>
     </mepHeader>
-    <headNote resp="MSPP"><p>This is the conclusion of a seven part series. For Part I, see <xref
+    <headNote resp="MSPP">
+        <p>This is the conclusion of a seven part series. For Part I, see <xref
                 from="302081.xml">Oct. 29, 1911</xref>, for Part 2, see <xref from="320082.xml">Nov.
                 5, 1911</xref>, for Part 3 see <xref from="320083.xml">Nov. 12, 1911</xref>, for
             Part 4 see <xref from="320084.xml">Nov. 19, 1911</xref>, for Part 5 see <xref
@@ -31,11 +33,11 @@
                 type="article">Man's Development</title>." For the new conclusion written for the
             book publication, see "<xref from="321900.xml">Conclusion</xref>."</p>
         <index level1="evolution"/>
-        <index level1="fatherhood"/>
-        <index level1="motherhood"/>
+        <index level1="marriage" level2="MS on"/>
         <index level1="sex education"/>
-        <index level1="women" level2="freedom and rights of"/>
-    </headNote>
+        <index level1="reproduction"/>
+        <index level1="women and girl" level2="enslavement of"/>
+       </headNote>
     <docBody>
         <head>HOW SIX LITTLE CHILDREN WERE TAUGHT THE TRUTH</head>
         <byline>By <person reg="Sanger, Margaret">Margaret H. Sanger</person></byline>
@@ -137,7 +139,7 @@
             matter of their own bodies, yet after a few minutes as the other children joined in the
             conversation they, too, forgot or overcame the embarrassment and all went well. </p>
         <p>The children were told frankly that some mothers did not like their children to know
-            these things, that like the fairy tales and the story of <person>Santa Claus</person>,
+            these things, that like the fairy tales and the story of <name type="deity">Santa Claus</name>,
             the mothers liked their children to believe that the stork brought them, or some other
             fairy tale. They were told that these things are NOT TO BE TALKED ABOUT WITH OTHER
             CHILDREN, and any time any child wished to know any thing about himself or any question
