@@ -7,6 +7,7 @@
         <prepDate>2003/11/25 CH cleaned up tags</prepDate>
         <prepDate>2007-05-30 CH Oxygen cleanup</prepDate>
         <prepDate>2014-03-05 CH clean regs</prepDate>
+        <prepDate>2015-02-20 EK correct index</prepDate>
         <docAuthor>Margaret Sanger</docAuthor>
         <docDate value="1911-12-11">11 Dec 1911</docDate>
         <docTitle>
@@ -19,7 +20,7 @@
     </mepHeader>
     <headNote>
         <index level1="woman suffrage"/>
-        <index level1="socialism"/>
+        <index level1="Socialist Party"/>
     </headNote>
     <docBody>
         <head>BRANCH 5 WOMEN TO MEET.</head>

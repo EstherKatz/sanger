@@ -6,10 +6,11 @@
         <prepDate>2002-08-20 KH</prepDate>
         <prepDate>2007-05-30 CH Oxygen update</prepDate>
         <prepDate>2014-11-10 CH clean regs</prepDate>
+        <prepDate>2015-02-20 EK correct index</prepDate>
         <docAuthor>Margaret Sanger</docAuthor>
-        <docDate value="1911-12-10">10 Dec 1911</docDate>
+        <docDate value="1911-12-10">10 Dec. 1911</docDate>
         <docTitle>
-            <titlePart>How Six Little Children Were Taught the Truth</titlePart>
+            <titlePart>How Six Little Children Were Taught the Truth, Part VII</titlePart>
         </docTitle>
         <idno>msp320087</idno>
         <sourceDesc>
@@ -17,17 +18,17 @@
         </sourceDesc>
     </mepHeader>
     <headNote>
-        <p>This is Part 7 of an eight-part series of the same title. For Part 1, see <xref
-                from="320081.xml">Oct. 19, 1911</xref>, for Part 2, see <xref from="320082.xml">Nov.
-                5, 1911</xref>, for Part 3 see <xref from="320083.xml">Nov. 12, 1911</xref>, for
-            Part 4 see <xref from="320084.xml">Nov. 19, 1911</xref>, for Part 5 see <xref
+        <p>This is Part 7 of an eight-part series of the same title. For Part I, see <xref
+                from="320081.xml">Oct. 19, 1911</xref>, for Part II, see <xref from="320082.xml">Nov.
+                5, 1911</xref>, for Part III see <xref from="320083.xml">Nov. 12, 1911</xref>, for
+            Part IV see <xref from="320084.xml">Nov. 19, 1911</xref>, for Part V-a and V-b see <xref
                 from="320085.xml">Nov. 26, 1911</xref> and <xref from="320086.xml">Dec. 3,
-                1911</xref>, and for Part 7, see <xref from="320088.xml">Dec. 17,
+                1911</xref>, and for Part VII, see <xref from="320088.xml">Dec. 17,
             1911.</xref></p><p>This series was compiled and published as <title type="book">What
                 Every Mother Should Know</title> (1912).</p>
         <index level1="sex education"/>
-        <index level1="love" level2="concept of"/>
-    </headNote>
+        <index level1="reproduction"/>
+         </headNote>
     <docBody>
         <head>How Six Little Children Were Taught the Truth</head>
         <byline>By <person reg="Sanger, Margaret">Margaret H. Sanger</person></byline>
