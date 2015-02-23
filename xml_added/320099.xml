@@ -8,8 +8,9 @@
         <prepDate>2004/07/26 CH</prepDate>
         <prepDate>2007-05-30 CH Oxygen/Cleanup</prepDate>
         <prepDate>2014-03-05 CH clean regs</prepDate>
+        <prepDate>2015-02-20 EK correct index</prepDate>
         <docAuthor>Margaret Sanger</docAuthor>
-        <docDate value="1911-11-29">29 Nov 1911</docDate>
+        <docDate value="1911-11-29">29 Nov. 1911</docDate>
         <docTitle>
             <titlePart>Women's Naturalization Class</titlePart>
         </docTitle>
@@ -23,6 +24,7 @@
     </mepHeader>
     <headNote>
         <index level1="women" level2="freedom and rights of"/>
+        <index level1="immigration" level2="and naturalization"/>
         <index level1="woman suffrage"/>
     </headNote>
     <docBody>
