@@ -7,6 +7,7 @@
         <prepDate>2003/12/08 CH fix codes</prepDate>
         <prepDate>2007-05-30 CH Oxygen cleanup</prepDate>
         <prepDate>2014-03-05 CH clean regs</prepDate>
+        <prepDate>2015-02-20 EK correct index</prepDate>
         <docAuthor>Margaret Sanger</docAuthor>
         <docDate value="1911-12-24">24 Dec 1911</docDate>
         <docTitle>
@@ -14,9 +15,8 @@
         </docTitle>
         <idno>msp320124</idno>
         <sourceDesc>
-            <bibl><title type="journal">New York Call</title>, Dec. 24, 1911, 15</bibl>
-            <bibl></bibl>
-        </sourceDesc>
+            <bibl><title type="journal">New York Call</title>, Dec. 24, 1911, p. 15</bibl>
+                </sourceDesc>
         <respStmt>
             <resp/>
             <name id="WEEAN">Weeks, Anna Ross</name>
@@ -24,16 +24,16 @@
         </respStmt>
     </mepHeader>
     <headNote>
-        <index level1="woman suffrage" level2="working women and"/>
-        <index level1="Woman's Suffrage Party"/>
         <index level1="woman suffrage" level2="MS on"/>
-        <index level1="working classes" level2="women and girls"/>
+        <index level1="working classes" level2="MS on"/>
         <index level1="women" level2="freedom and rights of"/>
-        <index level1="socialism"/>
+        <index level1="socialism and socialists"/>
+        <index level1="Socialist Party"/>
+        
     </headNote>
     <docBody>
         <head>DIRT, SMELL AND SWEAT</head>
-        <p>Editor Woman's Sphere:</p>
+        <p>Editor, <title type="article">Woman's Sphere</title>:</p>
         <p>At a meeting of the <org reg="New York City Woman's Suffrage Party ">Woman's Suffrage
                 party</org> of the 27th Assembly District a few days ago a tall, beautiful and
             charming woman named <person reg="Weeks, Anna Ross">Mrs. Weeks</person>, acted as
