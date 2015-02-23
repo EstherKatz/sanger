@@ -7,10 +7,11 @@
         <prepDate>2003/11/25 CH cleaned up tags and xrefs</prepDate>
         <prepDate>2007-05-30 CH Oxygen/cleanup</prepDate>
         <prepDate>2014-11-10 CH reg cleanup</prepDate>
+        <prepDate>2015-02-20 EK correct index</prepDate>
         <docAuthor>Margaret Sanger</docAuthor>
-        <docDate value="1911-11-26">26 Nov 1911</docDate>
+        <docDate value="1911-11-26">26 Nov. 1911</docDate>
         <docTitle>
-            <titlePart>How Six Little Children Were Taught The Truth</titlePart>
+            <titlePart>How Six Little Children Were Taught The Truth, Part V</titlePart>
         </docTitle>
         <idno>msp320085</idno>
         <sourceDesc>
@@ -28,6 +29,7 @@
         <p>This series was compiled and published as <title type="book">What Every Mother Should
                 Know</title>, (New York, 1912).</p>
         <index level1="sex education"/>
+        <index level1="reproduction"/>
     </headNote>
     <docBody>
         <head>HOW SIX LITTLE CHILDREN WERE TAUGHT THE TRUTH</head>
