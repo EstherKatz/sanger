@@ -27,12 +27,12 @@
         </respStmt>
     </mepHeader>
     <headNote resp="MSPP">
-        <index level1="birth control" level2="health benefits and risks of"/>
+        <index level1="birth control" level2="health benefits and risks"/>
         <index level1="birth control" level2="opposition to"/>
-        <index level1="birth control" level2="methods" level3="withdrawal"/>
-        <index level1="birth control " level2="methods" level3="douche"/>
-        <index level1="sterility/>
-        <index level1="women" level2="reproductive choices and decisions"/>
+        <index level1="birth control methods" level2="withdrawal"/>
+        <index level1="birth control methods" level2="douche"/>
+        <index level1="sterility"/>
+       <index level1="women and girls" level2="reproductive choices and decisions"/>
     </headNote>
     <docBody>
         <head>Are Birth Control Methods Injurious?</head>

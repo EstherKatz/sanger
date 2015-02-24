@@ -1,43 +1,47 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <!DOCTYPE doc SYSTEM "meptei3xMSP.dtd">
-<doc type="Published speech">
+<doc type="Published article">
     <mepHeader>
         <prepDate>2014/07/16 AS encoded</prepDate>
         <prepDate>2014-08-15 CH proof and enter</prepDate>
         <docAuthor>Margaret Sanger</docAuthor>
         <docDate value="1918/04/--">Apr. 1918</docDate>
         <docTitle>
-            <titlePart>Editorial Comment</titlePart>
+            <titlePart><supplied resp="MSPP">Editorial on Birth Control
+                Issues</supplied></titlePart>
         </docTitle>
         <idno>msp422026</idno>
         <sourceDesc>
             <bibl><title type="article">Editorial Comment</title>, <title type="journal">Birth
-                    Control Review</title>, April 1918, p. 16.</bibl>
-
+                    Control Review, The</title>, April 1918, p. 16</bibl>
         </sourceDesc>
         <respStmt>
             <resp/>
             <name id="STEJO">Stelk, John</name>
             <name id="MAFLO">Maffert, Louis</name>
             <name id="UNK">Unknown</name>
+            <name id="FRE">French</name>
         </respStmt>
     </mepHeader>
-    <headNote resp="MSPP"><p>This unsigned editorial may have been written by Margaret Sanger.</p>
+    <headNote resp="MSPP"><p>This editorial was unsigned, but probably written by Margaret
+            Sanger.</p>
+        <index level1="birth control" level2="arrests, trials and imprisonment"/>
+        <index level1="birth control laws and legislation" level2="state"/>
+        <index level1="birth control legal cases"/>
+        <index level1="France" level2="birth control in"/>
         <index level1="New York Women's Publishing Co."/>
         <index level1="Birth Control Review, The"/>
-        <index level1="France" level2="birth control in"/>
-        <index level1="birth control" level2="lack of knowledge of"
-            level3="negative consequences of"/>
         <index level1="infanticide"/>
+        <index level1="World War I" level2="and population size"/>
     </headNote>
     <docBody>
         <head>EDITORIAL COMMENT</head>
-        <p><person reg="Stelk, John">JUDGE JOHN STELK,</person> of the <org
+        <p><person reg="Stelk, John">Judge John Stelk,</person> of the <org
                 reg="Chicago Court of Domestic Relations">Court of Domestic Relations,</org>
             <place reg="Chicago, IL">Chicago,</place> has issued a report of his work in which he
             proves himself to be a genuine humanitarian and an exceptionally enlightened jurist. He
             advocates birth control, handles without gloves the war baby problem and scores the
-            hypocrisy and ienfficiency of organized charity. The poor, overburdened mother has the
+            hypocrisy and inefficiency of organized charity. The poor, overburdened mother has the
             right, he affirms, to "<q who="STEJO">guard against another mouth to feed</q>." The same
             knowledge that is "<q who="STEJO">given out every day to her sisters in the higher walks
                 of life</q>" should be extended to her. "<q who="STEJO">I don't hesitate to
@@ -47,10 +51,10 @@
                 visited upon the latter. I am of the opinion that some day the entire question will
                 be considered by the <org>Federal Government.</org></q>" So far as we know, he drew
             his conclusions directly from the problems he was called upon to solve in the Court of
-            Domest Relations. We regard it as only a matter of time before all thinking persons with
-            the interests of society at heart will hold similar views. But it is gratifying to find
-            a judge in the vanguard of progress, usually men of his calling are among the last to
-            fall in line. We shall have more to say about Mr. Stelk, of Chicago, in a subsequent
+            Domestic Relations. We regard it as only a matter of time before all thinking persons
+            with the interests of society at heart will hold similar views. But it is gratifying to
+            find a judge in the vanguard of progress, usually men of his calling are among the last
+            to fall in line. We shall have more to say about Mr. Stelk, of Chicago, in a subsequent
             issue.</p>
         <p>WORD HAS COME that Dr. <person reg="Reitman, Ben">Ben Reitman</person> has lost his
             appeal in the higher courts of <place>Ohio</place>. He was first tried about a year ago
@@ -61,38 +65,39 @@
             the <org reg="Ohio Birth Control League">Cleveland league</org> printed elsewhere in
             this issue. Dr. Reitman does not appear to have received the full local support to which
             any idealist battling in this cause was surely entitled.</p>
-        <p>OFFICIAL <place>FRANCE</place> is crying for more children to fill the places of those
+        <p>Official <place>France</place> is crying for more children to fill the places of those
             who have been slain. But the people, militarized and stricken economically, are unable
             properly to care for all those who come into the world as it is. Let two incidents
             recorded in recent <place reg="Paris, France">Paris</place> newspapers demonstrate the
             point. <person reg="Maffert, Louis">Louis Maffert,</person> one of the editors of the
-            patriotic <title type="journal">La Victoire,</title> writes as follows. "<q who="MAFLO"
-                >We are certainly too fond of formulas. When we discover a phrase which is
-                applicable to a problem, we repeat it with unwearied zeal. We say sanctiomoniously
-                to every woman 'Have children!' and the day before yesterday two poor girl-mothers
-                arrived at my office, at nine o'clock in the evening, with two new-born infants.
-                They were without food, without money, without shoes and without lodging. The hotels
-                never seem to have rooms for unfortunates of their kind. We did our best for them
-                and finally turned them over to the <org>Saint Sulpice home</org>. But, all the
-                same, such things ought not to happen.</q>" Again, the Socialist newspaper, <title
-                type="journal">l'Humanite,</title> tells how a father, mother and four young
+            patriotic <title type="journal"><foreign lang="FRE">La Victoire,</foreign></title>
+            writes as follows. "<q who="MAFLO">We are certainly too fond of formulas. When we
+                discover a phrase which is applicable to a problem, we repeat it with unwearied
+                zeal. We say sanctiomoniously to every woman 'Have children!' and the day before
+                yesterday two poor girl-mothers arrived at my office, at nine o'clock in the
+                evening, with two new-born infants. They were without food, without money, without
+                shoes and without lodging. The hotels never seem to have rooms for unfortunates of
+                their kind. We did our best for them and finally turned them over to the <org>Saint
+                    Sulpice home</org>. But, all the same, such things ought not to happen.</q>"
+            Again, the Socialist newspaper, <title type="journal"><foreign lang="FRE"
+                    >l'Humanite,</foreign></title> tells how a father, mother and four young
             children, unable to meet their obligations, were dispossessed in mid-winter not by a
             flinty-hearted bourgeois landlord, but by a munitions concern controlled by the <org
-                reg="France Ministry of War">Ministry of War</org>, on whose property their poor
-            lodging was located. Had the parents practised birth control, the repopulation of France
+                reg="French Ministry of War">Ministry of War</org>, on whose property their poor
+            lodging was located. Had the parents practiced birth control, the repopulation of France
             would have suffered, but they probably would have been financially able to cope with
             their ironical tragedy.</p>
-        <p>WE WISH THAT WE had available space in this magazine to record every case of wife murder
+        <p>We wish that we had available space in this magazine to record every case of wife murder
             and infanticide occurring as a result of unrestricted childbearing. Every month sees
             scores of such tragedies in the <place>United States</place>, only a small proportion of
             which are considered sufficiently sensational to be played up in the newspapers. Of the
             thousands that take place in other countries we, of course, hear nothing. We have before
             us accounts of two incidents which illustrate the extremes of the problem. The birth of
-            a seventh child ina poverty-stricken Italian home in <place reg="New York, NY">New York
+            a seventh child in a poverty-stricken Italian home in <place reg="New York, NY">New York
                 City</place> rendered the <person reg="Unidentified">father</person> temporarily
             insane. He stamped up and down the room where his wife was lying in bed, muttering in
-            his desapir, then drew a knife and stabbed the baby. The mother threw herself across the
-            little body and received a mortal wound. Horrified the man fled. In a <place>New
+            his desapir, then drew a knife and stabbed at the baby. The mother threw herself across
+            the little body and received a mortal wound. Horrified the man fled. In a <place>New
                 Jersey</place> suburb of Greater New York, a <person reg="Unidenitifed">middle-aged
                 mother</person> with a boy of sixteen and a girl of eleven gave birth to a third
             girl. This was an eventuality which she had plainly not figured upon. She brooded until
@@ -104,18 +109,17 @@
             conception should have been available for her, no less than for the murdered Italian
             mother with her seven babies produced in blindness and ignorance and probably in all too
             rapid succession to each other.</p>
-        <p>WE CALL ATTENTION to the prospects on another page of <org>The New York Woman's
+        <p>We call attention to the prospectus on another page of <org>The New York Woman's
                 Publishing Company, Inc.</org> This new organization is composed of fifteen women,
-            who propose to leave no stone unturned to put <title type="journal">The Birth Control
+            who propose to leave no stone unturned to put The <title type="journal">Birth Control
                 Review</title> on a financial basis. Application for papers of incorporation has
             been made, and $10,000 worth of stock will be offered to the public at $10 a share.</p>
         <p>When this magazine resumed publication last December, we printed an appeal for help and
             told our subscribers that the continued existence of the only organ of the birth control
-            movement in America depended upon their co-operation. The response was almost nil, but
-            we have struggled along through the winter at a financial loss. The little group that
-            has borne the burden cannot do so indefinitely. If YOU want your magazine to live, buy
-            at least one share and urge your friends to do likewise. It is a case of now or
-            never.</p>
+            movement in America depended upon their cooperation. The response was almost nil, but we
+            have struggled along through the winter at a financial loss. The little group that has
+            borne the burden cannot do so indefinitely. If YOU want your magazine to live, buy at
+            least one share and urge your friends to do likewise. It is a case of now or never.</p>
 
     </docBody>
 </doc>
