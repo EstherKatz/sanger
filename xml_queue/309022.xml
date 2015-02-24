@@ -3,27 +3,32 @@
 <doc type="Autograph fiction">
 	<mepHeader>
 		<prepDate>2014/06/11 MM</prepDate>
-		<prepDate>2014/11/21 EK clean regs and correct proof</prepDate><prepDate>2015-01-22 CH proof tags and enter</prepDate>
+		<prepDate>2014/11/21 EK clean regs and correct proof</prepDate>
+		<prepDate>2015-01-22 CH proof tags and enter</prepDate>
+		<prepDate>2015-02-20 EK correct index</prepDate>
 		<docAuthor><person reg="Sanger, Margaret">Margaret Sanger</person></docAuthor>
-		<docDate value="1911-00-00">1911</docDate>
+		<docDate value="1911-00-00"><supplied resp="MSPP">??/??/1911</supplied>1911/</docDate>
 		<docTitle>
 			<titlePart>Does Youth Win the Race?</titlePart>
 		</docTitle>
 		<idno>msp309022</idno>
 		<sourceDesc>
 			<bibl>Margaret Sanger Papers, Sophia Smith Collection</bibl>
-			<bibl><title type="mf">Margaret Sanger Microfilm, Collected Documents Series</title>, C16:1049</bibl>
+			<bibl><title type="mf">Margaret Sanger Microfilm, Collected Documents Series</title>,
+				C16:1049</bibl>
 		</sourceDesc>
 		<respStmt>
 			<resp/>
 			<name/>
 		</respStmt>
 	</mepHeader>
-	<headNote resp="MSPP">Sanger likely drafted this short story outline in 1911. <index
-			level1="motherhood" level2="MS on"/>
+	<headNote resp="MSPP"><p>Sanger likely drafted this short story outline in 1911.</p>
+		<index level1="immigration and immigrants"/>
+		<index level1="motherhood" level2="MS on"/>
 		<index level1="marriage" level2="MS on"/>
-		<index level1="racial/>ethnic references" level2="to Italians"/>
-		<index level1="sexuality" level2="MS on"/>
+		<index level1="Sanger, Margaret" level2="fictional writing"/>
+		<index level1="sex and sexuality" level2="and love"/>
+		<index level1="sex and sexuality" level2="MS on"/>
 	</headNote>
 	<docBody>
 		<head>
@@ -48,25 +53,23 @@
 			lazy &amp; will not work to develop--</p>
 		<p>Mother takes in <del>sewing</del> &amp; washing &amp; ironing <add>men's</add>silk shirts
 			as a speciality--</p>
-		<p>Meets <person reg="Neenan, George (fictional)">George</person><supplied resp="MSPP">Neenan</supplied>
-			a poor but ambitious composer.</p>
-		<p>He falls in love with mothers <gap reason="missing" extent="one word"/>
-			<supplied resp="MSPP"><add>mental</add></supplied> and mother with him--</p>
-		<p>Finds himself seeking her advice in all important questions. </p>
-		<p>mp;hrough her advice he succeeds in a big composition &amp; wins great victory--</p>
+		<p>Meets <name reg="Neenan, George (fictional)">George Neenan</name> a poor but ambitious composer.</p>
+		<p>He falls in love with mothers <supplied resp="MSPP"><add><unclear>mental</unclear></add></supplied> and mothers with him--</p>
+		<p>Finds himself seeking her advice in all important questions.</p>
+		<p>Through her advice he succeeds in a big composition &amp; wins great victory--</p>
 		<p>Daughter comes home--</p>
 		<p>Neenan falls in love with daughter--while still in love with the womans mind her big
 			grasp on the world affairs--her deep understanding her psychic &amp; intentional
-			qualities awe him--he needs them--but he loves Dorothy.</p>
+			qualities awe him--he needs them--but he loves <name type="fictional">Dorothy</name>.</p>
 		<p>He comes to live in their home (flat) to live in touch with the inspiration of
-				<person>Helen</person> the Mother--</p>
+				<name type="fictional">Helen</name> the Mother--</p>
 		<p>He does not tell <person>Dora</person> he loves her--</p>
 		<p>He tells Helen he can not love her as he would like to-- He is married &amp; can not get
 			divorced.</p>
 		<p>Helen wants to make him the greatest in the musical world-- She studies for him early
 			&amp; late helps him to rise--and he does--</p>
 		<p>Word came that his wife has passed away--he is now free to choose--</p>
-		<p>He is torn between physical love for Dora and the ideal love of Helen--. One love which
+		<p>He is torn between physical love for <name reg="Dorothy">Dora</name> and the ideal love of Helen--. One love which
 			satisfies the cravings of the <add>body</add>. The other which lifts &amp; exalts the
 			growth of the soul. Man being a physical creature--ages of physical cravings
 			satisfied--the test too hard--</p>
@@ -80,8 +83,9 @@
 		<p>He the adored of two women <del>is</del> has a complete life--beauty to fill his artistic
 			&amp; physical eye and a clean, clear inspiring intelligence to urge him on to greater
 			&amp; higher accomplishment.</p>
-		<p>The great pain of <person reg="Helen (fictional)">Helen</person> is Doras lack of purpose, of character or stability &amp; she
-			covers-up those shortcomings in every way.</p>
+		<p>The great pain of <name reg="Helen (fictional)">Helen</name> is Doras lack of
+			purpose, of character or stability &amp; she covers-up those shortcomings in every
+			way.</p>
 		<p>He feeds Doras vanity--</p>
 		<p>Helen feeds his mind.</p>
 		<p>She is content in the service of <del><gap reason="illegible" extent="one word"/>

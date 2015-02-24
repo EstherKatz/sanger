@@ -8,15 +8,16 @@
         <prepDate>2004/08/13 CH</prepDate>
         <prepDate>2007-05-30 CH Oxygen cleanup</prepDate>
         <prepDate>2014-11-18 CH cleaning regs</prepDate>
+        <prepDate>2015-02-24 EK proof index</prepDate>
         <docAuthor>Margaret Sanger</docAuthor>
-        <docDate value="1912-02-15">15 Feb 1912</docDate>
+        <docDate value="1912-02-15">15 Feb. 1912</docDate>
         <docTitle>
             <titlePart>The Fangs of the Monster at Lawrence</titlePart>
         </docTitle>
         <idno>msp303459</idno>
         <sourceDesc>
             <bibl><title type="journal">New York Call</title>, Feb. 15, 1912</bibl>
-            <bibl><title>Margaret Sanger Microfilm, Collected Documents Series </title> C16:0018</bibl>
+            <bibl><title type="mf">Margaret Sanger Microfilm, Collected Documents Series,</title> C16:0018</bibl>
         </sourceDesc>
         <respStmt>
             <resp/>
@@ -24,9 +25,12 @@
         </respStmt>
     </mepHeader>
     <headNote>
+        <index level1="capitalism"/>
+        <index level1="labor movement" level2="MS on"/>
+        <index level1="labor movement" level2="strikes" level3="Lawrence, MA, 1912"/>
+        <index level1="socialism and socialists" level2="MS on"/>
         <index level1="working classes"/>
-        <index level1="labor movement" level2="Lawrence, MA Strike, 1912"/>
-    </headNote>
+         </headNote>
     <docBody>
         <head>The Fangs of the Monster at Lawrence</head>
         <byline>By <person reg="Sanger, Margaret">Margaret H. Sanger</person>.</byline>

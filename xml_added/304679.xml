@@ -9,15 +9,16 @@
         <prepDate>2007-05-30 CH Oxygen cleanup</prepDate>
         <prepDate>2011/03/11 CH Entered corrections suggested by Andy Carloff.</prepDate>
         <prepDate>2014-03-12 CH clean regs </prepDate>
+        <prepDate>2015-02-24 EK correct index</prepDate>
         <docAuthor>Margaret Sanger</docAuthor>
-        <docDate value="1912-02-18">18 Feb 1912</docDate>
+        <docDate value="1912-02-18">18 Feb. 1912</docDate>
         <docTitle>
             <titlePart>The Fighting Women of Lawrence</titlePart>
         </docTitle>
         <idno>msp304679</idno>
         <sourceDesc>
             <bibl><title type="journal">New York Call</title>, Feb. 18, 1912</bibl>
-            <bibl><title>Margaret Sanger Microfilm </title>, C16:19</bibl>
+            <bibl><title type="mf">Margaret Sanger Microfilm, Collected Documents,</title> C16:0019</bibl>
         </sourceDesc>
         <respStmt>
             <resp/>
@@ -28,10 +29,11 @@
         <p>An editor's note at the top of the article identified <person reg="Sanger, Margaret"
                 >Sanger</person> as one of the committee who brought the striker's children to
                 <place reg="New York, NY">New York</place>.</p>
+        <index level1="labor movement" level2="strikes" level3="Lawrence, MA, 1912"/> 
+        <index level1="labor movement" level2="MS on"/>
         <index level1="working classes" level2="revolution and"/>
         <index level1="working classes" level2="MS on"/>
-        <index level1="labor movement" level2="Lawrence, MA Strike, 1912"/>
-    </headNote>
+          </headNote>
     <docBody>
         <head>The Fighting Women of Lawrence</head>
         <byline>By Margaret H. Sanger.</byline>

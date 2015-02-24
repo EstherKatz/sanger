@@ -7,25 +7,27 @@
     <prepDate>2004/07/02 CH</prepDate>
     <prepDate>2007-05-30 CH Oxygen cleanup</prepDate>
     <prepDate>2014-03-05 cleaning tags</prepDate>
+    <prepDate>2015-02-24 EK proof index</prepDate>
     <docAuthor>Margaret Sanger</docAuthor>
-    <docDate value="1912-01-14">14 Jan 1912</docDate>
+    <docDate value="1912-01-14">14 Jan. 1912</docDate>
     <docTitle>
       <titlePart>The Women of the Laundry Workers' Strike</titlePart>
     </docTitle>
     <idno>msp320123</idno>
     <sourceDesc>
       <bibl><title type="journal">New York Call</title>, Jan. 14, 1912</bibl>
-    </sourceDesc>
+         </sourceDesc>
     <respStmt>
       <resp/>
       <name id="UNK">Unknown</name>
     </respStmt>
   </mepHeader>
   <headNote>
-    <index level1="poverty"/>
+    <index level1="labor movement" level2="MS on"/>    
+    <index level1="labor movement" level2="strikes"/>    
     <index level1="working classes" level2="women and girls"/>
     <index level1="working classes" level2="revolution and"/>
-    <index level1="labor movement" level2="strikes"/>
+ 
   </headNote>
   <docBody>
     <head>THE WOMEN OF THE LAUNDRY WORKERS' STRIKE</head>
