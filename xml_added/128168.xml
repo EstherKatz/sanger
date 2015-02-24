@@ -1,5 +1,5 @@
 <?xml version="1.0" encoding="UTF-8"?>
-<!DOCTYPE doc SYSTEM "meptei3xMSP.dtd">
+<!DOCTYPE doc SYSTEM "not%20xml/meptei3xMSP.dtd">
 <doc type="Typed Draft Speech">
     <mepHeader>
         <prepDate>2003-07-07 KSM</prepDate>
@@ -7,34 +7,49 @@
         <prepDate>2007-09-05 CH correct doctype</prepDate>
         <prepDate>2011-11-21 CH add index entries.</prepDate>
         <prepDate>2014-03-30 CH clean regs</prepDate>
+        <prepDate>2015-02-24 EK correct proof and index</prepDate>
         <docAuthor>Margaret Sanger</docAuthor>
-        <docDate value="1920-12-08"> 8 Dec 1920</docDate>
+        <docDate value="1920-12-08"> 8 Dec. 1920</docDate>
         <docTitle>
-            <titlePart>
-                <supplied resp="MSPP">Excerpts from Hotel Commodore Luncheon
-                Address</supplied></titlePart>
+            <titlePart><supplied resp="MSPP">Excerpts from Hotel Commodore Luncheon
+                    Address</supplied></titlePart>
         </docTitle>
         <idno>msp128168</idno>
         <sourceDesc>
-            <bibl>Margaret Sanger Papers, Library of Congress</bibl>
-            <bibl>Library of Congress Microfilm 129:593.</bibl>
+            <bibl><title type="mf">Margaret Sanger Papers, Library of Congress Microfilm,</title>
+                LCM 129:0593</bibl>
         </sourceDesc>
         <respStmt>
             <resp/>
-            <name/>
         </respStmt>
     </mepHeader>
-    <headNote resp="MSPP"><p>Sanger gave this speech at a luncheon at the <org>Hotel Commodore</org>
-            in <place reg="New York, NY">New York City</place> on Dec. 8, 1920. This is an excerpted
-            version of her speech. For more extensive draft versions see <title>Margaret Sanger
-                Microfilm </title> S70:862, 866.</p>
-        <index level1="birth control" level2="and war"/>
-        <index level1="United States" level2="population policies of"/>
+    <headNote resp="MSPP"><p>Margaret Sanger gave this speech at a luncheon at the <org>Hotel
+                Commodore</org> in <place reg="New York, NY">New York City</place> on Dec. 8, 1920.
+            This is an excerpted version of her speech. For draft versions see <title type="mf"
+                >Margaret Sanger Microfilm: Smith College Collection,</title> S70:0862 and 0866.
+            Text supplied by the editors was taken from the draft version.</p>
+        <index level1="abortion" level2="birth control and"/>
+        <index level1="birth control clinics and leagues" level2="need for"/>
         <index level1="Europe" level2="birth control in"/>
         <index level1="Europe" level2="women in"/>
+        <index level1="Germany" level2="birth control in"/>
+        <index level1="Germany" level2="population policies"/>
+        <index level1="Japan" level2="overpopulation"/>
+        <index level1="mentally diseased or disabled" level2="as social burdens"/>
+        <index level1="peace and pacifism" level2="MS on"/>
+        <index level1="physically diseased or disabled" level2="as social burdens"/>
+        <index level1="population size" level2="and war"/>
+        <index level1="Sanger, Margaret" level2="exile, 1914-15"/>
+        <index level1="Sanger, Margaret" level2="tours” level3=”1920 (Germany)"/>
+        <index level1="war" level2="and birth control"/>
+        <index level1="women and girls" level2="reproductive choices and decisions"/>
+        <index level1="women and girls" level2="responsibilities of"/>
+        <index level1="World War I" level2="MS on"/>
     </headNote>
     <docBody>
-        <dateline><date value="1920-12-08"> December 8, 1920</date></dateline>
+        <head><supplied resp="MSPP">Excerpts from Hotel Commodore Luncheon Address</supplied>
+        </head>
+        <p><dateline><date>December 8, 1920</date>, <org>Hotel Commodore</org></dateline></p>
         <p>Birth Control will save the world from another and more devastating holocaust such as the
             great war which has left a continent in one vast stretch of want and misery. Enlightened
             minds everywhere are seeing this, while the less awakened among the populations in all
@@ -44,34 +59,33 @@
             the responsibility that rests upon the shoulders of the American women engaged in
             furthering the ideals of humanity, of a better, stronger civilization, if we ever hope
             to attain that international reconstruction that will establish world peace. </p>
-        <p>"Nor am I alone in this belief that it is the action of the women of this country that is
+        <p>Nor am I alone in this belief that it is the action of the women of this country that is
             needed for this. I am happy to be able today to bring you, to bring to the entire
             womanhood of America, a message and a plea from some of <place>Europe</place>'s most
             distinguished scientists, diplomats, and economists. That message is:</p>
-        <p rend="blockquote">We agree with the advocates of Birth Control, that not world peace is
+        <p rend="blockquote">We agree with the advocates of Birth Control, that no world peace is
             possible without a reduction of the birth rate and immediate action towards its
-            international accomplishment. </p>
-        <p rend="blockquote">The men and women who have asked me to bring this message to <place
-                reg="United States">America</place> for her own salvation are known to you all as
-            the finest flower of intellectual, economic and scientific thought in
-                <place>England</place>. They include Dean<person reg="Inge, WIlliam Ralph"
-                >Inge</person>, of <org>St. Paul's Cathedral</org>, <place reg="London, England"
-                >London</place>, <person reg="Cox, Harold J.">Harold J. Cox</person>, editor of the
-                <title type="journal">Edinburgh Review</title>, ex. M.P. <person
-                reg="Bland, John O. P.">J. O.<supplied resp="MSPP">P. Bland</supplied></person>
-            noted authority on Eastern subjects, formerly ambassador to <place>Japan</place>,
-                <person reg="Resse, Leonard">Leonard Reese</person>, editor of the <title
-                type="journal">London Sunday Times</title>; Dr. <person reg="Stope, Marie">Marie
-                Stopes</person>, famous paleontologist and biologist; <person
-                reg="How-Martyn, Edith">Edith How Martin</person>, candidate for
+            international accomplishment.</p>
+        <p>The men and women who have asked me to bring this message to <place reg="United States"
+                >America</place> for her own salvation are known to you all as the finest flower of
+            intellectual, economic and scientific thought in <place>England</place>. They include
+            Dean <person reg="Inge, WIlliam Ralph">Inge</person>, of <org>St. Paul's
+            Cathedral</org>, <place reg="London, England">London</place>; <person
+                reg="Cox, Harold J.">Harold J. Cox</person>, editor of the <title type="journal"
+                >Edinburgh Review</title>, ex. M.P.; <person reg="Bland, John O. P.">J. O.<supplied
+                    resp="MSPP">P. Bland</supplied></person> noted authority on Eastern subjects,
+            formerly ambassador to <place>Japan</place>; <person reg="Resse, Leonard">Leonard
+                Reese</person>, editor of the <title type="journal">London Sunday Times</title>; Dr.
+                <person reg="Stope, Marie">Marie Stopes</person>, famous paleontologist and
+            biologist; <person reg="How-Martyn, Edith">Edith How Martin</person>, candidate for
                 <org>Parliament</org> and member of the county council of <place
                 reg="Middlesex, England">Middlesex</place>; Sir <person reg="Macassey, Lyndon"
-                >Lyndon Macassey</person>, K.C.; <person reg="Wells, H. G.">H. G. Wells</person> and
-                <person reg="Bennett, Arnold">Arnold Bennett</person>. </p>
-        <p>Meanwhile, while <place>Europe</place> is solving this grave problem, what is America doing? We are
-            breeding, breeding, breeding, excess numbers--for what? For another condition like that
-            of Europe in 1914, with its dingy overcrowded communities that sought in blood-shed an
-            outlet and a relief from the tragedy of existence?</p>
+                >Lyndon Macassey</person>, K.C.; <person reg="Wells, H. G.">H. G. Wells</person>;
+            and <person reg="Bennett, Arnold">Arnold Bennett</person>. </p>
+        <p>Meanwhile, while <place>Europe</place> is solving this grave problem, what is America
+            doing? We are breeding, breeding, breeding, excess numbers--for what? For another
+            condition like that of Europe in 1914, with its dingy overcrowded communities that
+            sought in bloodshed an outlet and a relief from the tragedy of existence?</p>
         <p>For unless we apply fundamental remedies to these conditions we will fast approach the
             same congested and confused state which may and is likely to produce an outburst of the
             same nature as the European struggle that in four years laid a world in ruin. We shall
@@ -84,13 +98,11 @@
             terrible and death-dealing.</p>
         <p>Birth Control is the conscious voluntary regulation of the birth rate by scientific means
             that prevents conception. Birth Control has always been in operation. It dates back
-            wellnigh to the beginning of time. We see in the study of Nature how she ruthlessly
+            well-nigh to the beginning of time. We see in the study of Nature how she ruthlessly
             limits the population by famine, wars and pestilence. She sweeps the diseased, the
             weakling and the feebleminded to the wall with her great gestures that clean the world
             for the fit and the strong. But we will not allow nature to take her course. If we
-            would, we would not have the state of society that we have today. <del>allow nature to
-                take her course. If we would, we would not have the state of society that we have
-                to-day.</del></p>
+            would, we would not have the state of society that we have today.</p>
         <p>What does humanity do? We, with our ideas and with our humane consideration, we rescue
             the diseased, the feebleminded and the weaklings. We erect enormous institutions for
             them and fill them with their progeny. Our laws are all passed in support of the same
@@ -112,17 +124,27 @@
             and to study the new preventive said to have been invented in 1914, but I remained to
             see much more. I found that the women are the real sufferers of the war. They have
             brought a population into existence today that is even larger than before the war. They
-            are bowed down with </p>
+            are bowed down with <supplied resp="MSPP">the rest of this paragraph was taken from one
+                of the draft versions</supplied> with starvation and work until they almost walk on
+            all fours. But the women temselves are rocognizing the <del>fact</del>
+            <add>part</add> that their progeny plays in this terrible scheme of things. They forced
+            a bill through in the Reichstag demanding the right to perform an abortion within three
+            months. the extremity of their agony has driven them to this unnatural method. They have
+            not learned of the new preventive, nor of the older ones because the ultra-conservatiive
+            element in Germany still proceed under the cure ideas of life's problems. they keep
+            piling up the conditions of the past. Today in germany there is still the population
+            crowding up in the cities and the same excuse exists for warfare in 1914--for world
+            conquest.</p>
         <p>The physicians and the scientists whom I interviewed are still afraid to trust women with
             preventive knowledge. But there is a growing group of scientists, economists and
             thinkers who have recognized that Germany must reduce her population. This is the hope
             of those broken people. They told me that they consider Birth Control the immediate
             salvation of Germany and that the country must cease to dream of world imperialism and
             trade conquests and devote itself to the development of art, science and philosophy. </p>
-        <p>"Since there are no laws in Europe against giving preventive information I was able
-            during my stay in England and <place>Scotland</place> to impart such information to more
-            than 25,000 people, mainly women.</p>
-        <p>These women are working women of the '<org>Women's Co-Operative Guild</org>.' There has
+        <p>Since there are no laws in Europe against giving preventive information I was able during
+            my stay in England and <place>Scotland</place> to impart such information to more than
+            25,000 people, mainly women.</p>
+        <p>These women are working women of the "<org>Women's Co-Operative Guild</org>." There has
             been great opposition to Birth Control on the part of labor leaders for the past forty
             years and I was amazed and delighted at the elemental urge that drove these women to my
             lectures by the thousands in spite of the enmity against it. When I left England to
@@ -134,16 +156,17 @@
         <p>I was able to bring together a remarkable group of people in England to work for Birth
             Control. They are drawn from the most advanced scientists, social workers and publicists
             in that country. Among them are: <list>
-                <item>Harold Cox </item>
+                <item>Harold Cox</item>
                 <item>J.O.P. Bland</item>
                 <item>Leonard Reese</item>
                 <item>Dr. Marie Stopes</item>
                 <item>Edith How Martin</item>
                 <item>Sir Lyndon Macassey</item>
-            </list> This committee asked me to present a program--with a plan to cut the work in
-            England. This plan was accepted. A clinic is to be established in London. Twenty field
-            workers, nurses and social workers, are to be sent out to arouse the English people to
-            the necessity of immediate action.</p>
+            </list> This committee asked me to present a program--with a plan to <supplied
+                resp="MSPP">carry</supplied> out the work in England. This plan was accepted. A
+            clinic is to be established in London. Twenty field workers, nurses and social workers,
+            are to be sent out to arouse the English people to the necessity of immediate
+            action.</p>
         <p>I have returned to America for six months to organize a similar group here, and to
             present a plan for co-operation with England. Let us, as English speaking people unite
             and work together in this great issue. </p>
