@@ -1,0 +1,28 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE doc SYSTEM "meptei3xMSP.dtd">
+<doc type="Add">
+    <mepHeader>
+        <prepDate>YYYY-MM-DD Initials task</prepDate>
+        <docAuthor><person>Margaret Sanger</person></docAuthor>
+        <docDate value="YYYY-MM-DD">Add date in standard format</docDate>
+        <docTitle>
+            <titlePart>Title of the document</titlePart>
+        </docTitle>
+        <idno>mspxxxxxx</idno>
+        <sourceDesc>
+            <bibl><title>Journal if published</title> or archival collection if not</bibl>
+            <bibl><title>Margaret Sanger Microfilm</title> or Library of Congress Microfilm reel:frame</bibl>
+        </sourceDesc>
+        <respStmt>
+            <resp/>
+            <name/>
+        </respStmt>
+    </mepHeader>
+    <headNote resp="MSPP"><p>Add text if needed.</p><index level1="xxxx"/></headNote>
+    <docBody>
+        <head>Title if it appears in doc.</head>
+        <byline>Add if needed</byline>
+        <dateline>Add if needed, using <date value="YYYY-MM-DD"/>and <place/></dateline>
+        <p/>
+    </docBody>
+</doc>
