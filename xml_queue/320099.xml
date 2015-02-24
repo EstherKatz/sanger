@@ -1,0 +1,41 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE doc SYSTEM "meptei3xMSP.dtd">
+<doc type="Published article">
+    <mepHeader>
+        <prepDate>2001-10-25 MH</prepDate>
+        <prepDate>2002-08-20 KH</prepDate>
+        <prepDate>2003/12/08 CH</prepDate>
+        <prepDate>2004/07/26 CH</prepDate>
+        <prepDate>2007-05-30 CH Oxygen/Cleanup</prepDate>
+        <prepDate>2014-03-05 CH clean regs</prepDate>
+        <prepDate>2015-02-20 EK correct index 2</prepDate>
+        <docAuthor>Margaret Sanger</docAuthor>
+        <docDate value="1911-11-29">29 Nov. 1911</docDate>
+        <docTitle>
+            <titlePart>Women's Naturalization Class</titlePart>
+        </docTitle>
+        <idno>msp320099</idno>
+        <sourceDesc>
+            <bibl><title type="journal">New York Call</title>, Nov. 29, 1911</bibl>
+        </sourceDesc>
+        <respStmt>
+            <resp/>
+        </respStmt>
+    </mepHeader>
+    <headNote>
+        <index level1="women" level2="freedom and rights of"/>
+        <index level1="immigration" level2="and naturalization"/>
+        <index level1="woman suffrage"/>
+    </headNote>
+    <docBody>
+        <head>Women's Naturalization Class.</head>
+        <p>Arrangements have been made by the <org>Naturalization Aid Society</org> to hold a
+            Naturalization Class for Women every second and fourth Thursdays at 8 p.m., in the rooms
+            of the <org>Gaysville Forum</org>, 1461 Third Avenue. The first meeting will be held
+            December 14 and all women who are not naturalized will remember this date and join the
+            class. It is free to you, women Comrades; bring your women friends, become naturalized
+            and be able to use the vote when you are enfranchised.</p>
+        <byline><person reg="Sanger, Margaret">Margaret H. Sanger</person>, Women's
+            Organizer.</byline>
+    </docBody>
+</doc>

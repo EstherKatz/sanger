@@ -1,0 +1,38 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE doc SYSTEM "meptei3xMSP.dtd">
+<doc type="Published article">
+    <mepHeader>
+        <prepDate>2001-08-30 MH</prepDate>
+        <prepDate>2002-08-20 KH</prepDate>
+        <prepDate>2003/11/25 CH cleaned up tags</prepDate>
+        <prepDate>2007-05-30 CH Oxygen/cleanup</prepDate>
+        <prepDate>2014-03-05 CH clean regs</prepDate>
+        <prepDate>2015-02-23 EK clean index 2</prepDate>
+        <docAuthor>Margaret Sanger</docAuthor>
+        <docDate value="1911-11-24">24 Nov. 1911</docDate>
+        <docTitle>
+            <titlePart>Naturalization for Women</titlePart>
+        </docTitle>
+        <idno>msp320098</idno>
+        <sourceDesc>
+            <bibl><title type="journal">New York Call</title>, Nov. 24, 1911</bibl>
+            <bibl><title>Margaret Sanger Microfilm:Collected Documents,</title> C19:0006</bibl>
+        </sourceDesc>
+    </mepHeader>
+    <headNote>
+        <index level1="immigration and immigrants" level2="and naturalization"/>
+        <index level1="woman suffrage"/>
+        <index level1="women and girls" level2="freedom and rights of"/>
+    </headNote>
+    <docBody>
+        <head rend="bold">Naturalization for Women.</head>
+        <p>A naturalization class will be held the second and fourth Thursday of each month,
+            beginning in December, at 1461 Third Avenue, in the <org>Yorkville Forum</org>. <org
+                reg="Socialist Party of New York">Branch 6</org> has been kind enough to give these
+            two evenings of each month to the women and men who wish to become naturalized.</p>
+        <p>This is your opportunity, women Comrades. It is free to you and everyone is welcome.
+            Begin at once to become a citizen, so when you have the suffrage you can use it and not
+            have to wait from three to five years to become naturalized.</p>
+        <byline>MARGARET H. SANGER. Women's Organizer.</byline>
+    </docBody>
+</doc>
