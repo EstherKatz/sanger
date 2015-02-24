@@ -1,5 +1,5 @@
 <?xml version="1.0" encoding="UTF-8"?>
-<!DOCTYPE doc SYSTEM "meptei3xMSP.dtd">
+<!DOCTYPE doc SYSTEM "not%20xml/meptei3xMSP.dtd">
 <doc type="Published Editorial">
     <mepHeader>
         <prepDate>2014/07/16 AS encoded</prepDate>
@@ -7,7 +7,7 @@
         <docAuthor>Margaret Sanger</docAuthor>
         <docDate value="1918/06/00">June 1918</docDate>
         <docTitle>
-            <titlePart>Editorial Comment</titlePart>
+            <titlePart><supplied resp="MSPP"></supplied>Editorial on Future of Birth Control Movement and Religion</titlePart>
         </docTitle>
         <idno>msp422028</idno>
         <sourceDesc>
@@ -20,17 +20,20 @@
             <name id="UNK">Unknown</name>
         </respStmt>
     </mepHeader>
-    <headNote resp="MSPP"><index level1="birth control" level2="distribution of information about"/>
-        <index level1="birth control" level2="lack of knowledge of"/>
+    <headNote resp="MSPP">
+        <index level1="Anglican Church" level2="and birth control"/>
         <index level1="birth control" level2="religion and"/>
-        <index level1="birth control" level2="war and"/>
+        <index level1="birth control clinics and leagues" level2="need for"/>
+        <index level1="birth control" level2="distribution of information about"/>
+        <index level1="birth control movement" level2="goals and strategies"/>   
         <index level1="Birth Control Review, The"/>
-        <index level1="Catholic Church" level2="birth control and"/>
-        <index level1="New York Women's Publishing Co."/>
-    </headNote>
+        <index level1="Catholic Church" level2="and birth control"/>
+        <index level1="Catholic Church" level2="MS on"/>
+        <index level1="conferences" level2="Eastern Conference on Birth Control" level3="1918"/>
+         </headNote>
     <docBody>
         <head>EDITORIAL COMMENT</head>
-        <p>EVEN CONFERENCES are human. Each has a spirit of its own and it is this spirit that
+        <p>Even conference are human. Each has a spirit of its own and it is this spirit that
             counts and makes such gatherings useful. The keynote of the recent Birth Control
             Conference in <place reg="New York, NY">New York</place> was struck when workers in the
             movement testified that everywhere they found a greedy acceptance that birth control is
@@ -51,11 +54,11 @@
                 >Mrs. Amos Pinchot</person> who though constantly active in various war activities,
             has rightly proclaimed that standing by the birth control movement today is a great
             national duty toward generations yet to be.</p>
-        <p><org reg="Roman Catholic Church">THE CATHOLIC CHURCH</org> is the bigotted, relentless
+        <p><org reg="Catholic Church">The Catholic Church</org> is the bigoted, relentless
             enemy of birth control. It makes no bones about its stand. This movement threatens its
             hold upon the poor and the ignorant, and probably only the existence of restraining laws
             prevents it from applying the thumb-screw and the rack to all those who believe in
-            woman's right to practise voluntary motherhood. But, since the methods of the
+            woman's right to practice voluntary motherhood. But, since the methods of the
             Inquisition are out of date, it would compromise by clapping us all into jail. "The
             birth-controllers are at it again!" runs a medieval editorial in <title type="journal"
                 >The Holy Name Journal,</title> the organ of one of the most powerful Catholic
@@ -63,7 +66,7 @@
                 seems but to have whetted their desire to continue the propaganda for what will
                 ultimately be the extermination of the masses upon which our country must rely in
                 the future</q>." Observe the admission that our propaganda (as the Holy-Namers see
-            it) "<q who="HNJ">will ultimately</q>" succeed. "<q>Aside from its ethical and moral
+            it) "<q who="HNJ"><emph rend="italics">will ultimately</emph></q>" succeed. "<q>Aside from its ethical and moral
                 depravity</q>," the article goes on to say, "<q who="HNJ">the birth-controllers are
                 disseminating a doctrine that is decidedly shortsighted and subversive of even the
                 material welfare of the land. We need our teeming masses now, we shall need them
@@ -72,11 +75,11 @@
                 and suppress their teaching? It would be a prudent war measure</q>." Do we expect
             ever to win over the Catholic Church to our way of thinking? Not right away. We are
             aware that it will fight to the last ditch against this ideal. But we propose to go on
-            enrolling Catholics under our banner of progress-by the thousands today, by the hundreds
+            enrolling Catholics under our banner of progress--by the thousands today, by the hundreds
             of thousands in a year or two. In the long run, reason will inevitably triumph over
             darkness and superstition. Even the Catholic Church will yield to the force of public
             opinion.</p>
-        <p>PRIESTS AND MINISTERS of many Christian sects (outside of the Catholic Church) have been
+        <p>Priests and ministers of many Christian sects (outside of the Catholic Church) have been
             among the converts to birth control during recent years. That men of their calling
             should join us has not sent us into special ecstasies of tickled vanity and gratified
             respectability. We have welcomed them as individuals, as intelligent persons who have
@@ -89,16 +92,16 @@
             out that a reduction of births will be necessary to combat unemployment after the war.
             He is reported as saying that this movement would "<q who="INGWI">save and make happy
                 the population</q>." <org>Church of England</org> incumbents are paid by the State,
-            and the <org reg="United Kingdom Government">British Government</org> is clamoring for
+            and the <org reg="English Government">British Government</org> is clamoring for
             babies. Consequently, by telling the plain truth at this time Dr. Inge proved himself to
             be an honest and brave man, and we take off our hats to him. It is interesting to note
             that he asserted that the average lifetime has increased one-third during the last sixty
-            years-an additional reason for the general practice of birth control.</p>
-        <p>A REGRETTABLY FALSE idea of present conditions in the birth control movement has been
+            years--an additional reason for the general practice of birth control.</p>
+        <p>A regrettably false idea of present conditions in the birth control movement has been
             caused in some quarters. The <org>Birth Control League of New York</org> held a meeting
             early in May, at which <person reg="Myers, Hiram">Hiram Myers</person> was unanimously
             elected president, <person reg="Stone, Margaret Grant">Mrs. Eugene P. Stone,</person>
-            vice-president, <person reg="Goldstein, J.J.">J.J. Goldstein,</person> treasurer, and
+            vice-president, <person reg="Goldstein, Jonah J.">J.J. Goldstein,</person> treasurer, and
                 <person reg="Stuyvesant, Elizabeth">Elizabeth Stuyvesant,</person> secretary. An
             erroneous newspaper report of the proceedings at this meeting stated that most of the
             leagues which had been founded following the prosecution of various leaders of the
@@ -106,9 +109,9 @@
                 be something in the private nature of the subject</q>," an ex-officer was said to
             have declared, "<q who="UNK">which makes it unsuited for a public movement.</q>" The
             misleading nature of the above statements must be apparent to the members of the twenty
-            or more active leagues listed in our directory on Page 2. It is one of the few radical
+            or more active leagues listed in our directory on Page 2. The birth control movement is very much alive. It is one of the few radical
             movements which has not been destroyed by America's participation in the war. <org>The
-                New York Women's Publishing Company</org> has been formed to finance this magazine,
+                New York Women's Publishing Company</org> has been formed to finance this <title type="Birth Control Review, The">magazine</title>,
             and is offering $10 shares in a $10,000 fund to our friends and supporters. We have a
             growing circulation and have never felt more hopeful of the future.</p>
     </docBody>
