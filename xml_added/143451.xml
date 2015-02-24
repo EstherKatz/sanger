@@ -10,6 +10,7 @@
         <prepDate>2007-05-30 CH Oxygen cleanup</prepDate>
         <prepDate>2001/03/11 CH Entered corrections suggested by Andy Carloff.</prepDate>
         <prepDate>2014-03-18 CH clean regs</prepDate>
+        <prepDate>2015-02-24 EK correct index</prepDate>
         <docAuthor>Margaret Sanger</docAuthor>
         <docDate value="1912-00-00">
             <supplied resp="MSPP">1912</supplied>
@@ -29,9 +30,11 @@
     </mepHeader>
     <headNote>
         <p>For a draft version of this article see <title type="article">"A Crying Need for a Greater
-                Motherhood</title>," ca. 1912 [LCM 131:46].</p>
+                Motherhood</title>," ca. 1912, LCM 131:46.</p>
         <index level1="child labor"/>
+        <index level1="motherhood" level2="MS on"/>
         <index level1="prostitution"/>
+        <index level1="sex education"/>
         <index level1="working classes" level2="children"/>
         <index level1="working classes" level2="women and girls"/>
         <index level1="poverty"/>
