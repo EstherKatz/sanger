@@ -4,14 +4,16 @@
     <mepHeader>
         <prepDate>2014/07/15 AS encoded</prepDate>
         <prepDate>2014-08-15 CH correct and edit</prepDate>
+        <prepDate>2015-02-26 Ek correct proof and index</prepDate>
         <docAuthor>Margaret Sanger</docAuthor>
         <docDate value="1918/09/00">Sept. 1918</docDate>
         <docTitle>
-            <titlePart>Editorial Comment</titlePart>
+            <titlePart>Editorial on Censorship, Save Babies Campaign, and Mental
+                Institutions</titlePart>
         </docTitle>
         <idno>msp422029</idno>
         <sourceDesc>
-            <bibl><title type="journal">Birth Control Review</title>, Sept. 1918, p.9.</bibl>
+            <bibl>t<title type="journal">Birth Control Review</title>, Sept. 1918, p.9</bibl>
         </sourceDesc>
         <respStmt>
             <resp/>
@@ -19,47 +21,58 @@
             <name id="UNK">Unknown</name>
         </respStmt>
     </mepHeader>
-    <headNote resp="MSPP"><index level1="poverty"/>
-        <index level1="Birth Control Review, The"/>
-        <index level1="children" level2="rights of"/>
-        <index level1="birth control" level2="opposition to"/>
+    <headNote resp="MSPP">
+        <index level1="better babies"/>
+        <index level1="birth control" level2="propaganda and publicity"/>
+        <index level1="birth control laws and legislation" level2="Postal Codes"/>
         <index level1="Birth Control Review, The" level2="suppression of"/>
-        <index level1="mentally disabled and diseased" level2="birth control and"/></headNote>
+        <index level1="censorship" level2="in United States"/>
+        <index level1="child labor"/>
+        <index level1="mortality rates" level2="infant" level3="American"/>
+        <index level1="mentally diseased or disabled" level2="as social burdens"/>
+        <index level1="mentally disabled and diseased" level2="and birth control"/>
+        <index level1="New York" level2="NY" level3="working classes"/>
+        <index level1="women and girls" level2="freedom and rights of"/>
+    </headNote>
     <docBody>
         <head>EDITORIAL COMMENT</head>
-        <p>IF ANY SUBSCRIBERS to <title type="journal">THE BIRTH CONTROL REVIEW</title> failed to
+        <p>If any subscribers to <title type="journal">THE BIRTH CONTROL REVIEW</title> failed to
             receive the August number of the magazine, we wish them to know that it was because that
             issue was ordered barred from the mails by the authorities in <place
                 reg="Washington, DC">Washington.</place> The reason given was, that we had printed a
-            review and an advertisement of an important book which had been enthusiastically
-            received in the <place reg="Great Britain">British Empire,</place> but which was
-            declared to be unmailable here. Our readers know that we have been exceedingly careful
-            to keep within the letter and the spirit of postal regulations. We did not propose to
-            give reactionary minds in officialdom an opportunity to interfere with the work for
-            woman's freedom to which this publication is devoted. At last, however, a cause has been
-            found. Our answer to this attack, as to all others, is to be propaganda of the most
-            effective kind. It will be the only answer intelligible to the type of official who is
-            seeking to hamper the birth control movement. In the future, as in the past, we shall
-            not intentionally violate postal regulations. But, by means of a bigger, broader, still
-            more fearless magazine, we shall combat the spirit which led to the assault upon us. To
-            that end we have asked our subscribers to co-operate with us in trebling the REVIEW's
-            circulation. We intend to deal telling blows at the dark superstitions which perpetuate
-            in <place reg="United States">America</place> the lust of witch burning. Those who read
-            the leading article in the suppressed number know what difficulties have been overcome
-            in bringing out the first twelve issues of <title type="journal">THE BIRTH CONTROL
-                REVIEW</title>. Said difficulties did not deter those who have made the publication
-            a power for free womanhood. The barring of an edition from the mails, far from
-            discouraging us, has moved us to new efforts. But it is possible that this first
-            interference with the <title type="journal">REVIEW</title> may have more significance
-            than now appears to be the case. The powers of reaction have recently taken away many of
-            the reforms that American women have won in fifty years of toil, hardship and sacrifice.
-            Yesterday, the Federal child labor legislation, such as it was, went to the scrap heap.
-            Tomorrow, the attack may be wider in its scope. As for the advocates of birth control,
-            they intend to battle in the first ditch, not the last one. With all that we have of
-            inspiration, courage and resource, we shall hold fast to what we have gained. We shall
-            not let up in our fight on the medieval in tolerance, which makes it possible to deny
-            the mails of this country to a message of woman's freedom.</p>
-        <p>THE <person reg="Hylan, John Francis">MAYOR</person> of <org
+            review and an advertisement of an important book <supplied resp="MSPP"><title
+                    type="book">Married Love by <person reg="Stopes, Marie">Marie
+                    Stopes</person></title></supplied>which had been enthusiastically received in
+            the <place>British Empire,</place> but which was declared to be unmailable here. Our
+            readers know that we have been exceedingly careful to keep within the letter and the
+            spirit of postal regulations. We did not propose to give reactionary minds in
+            officialdom an opportunity to interfere with the work for woman's freedom to which this
+            publication is devoted. At last, however, a cause has been found. Our answer to this
+            attack, as to all others, is to be propaganda of the most effective kind. It will be the
+            only answer intelligible to the type of official who is seeking to hamper the birth
+            control movement. In the future, as in the past, we shall not intentionally violate
+            postal regulations. But, by means of a bigger, broader, still more fearless magazine, we
+            shall combat the spirit which led to the assault upon us. To that end we have asked our
+            subscribers to co-operate with us in trebling the REVIEW's circulation. We intend to
+            deal telling blows at the dark superstitions which perpetuate in <place
+                reg="United States">America</place> the lust of witch burning. Those who read the
+            leading article <xref from="206332"><supplied resp="MSPP"><title type="article">A
+                        Statement of Facts--An Obligation Fulfilled</title></supplied></xref>in the
+            suppressed number know what difficulties have been overcome in bringing out the first
+            twelve issues of <name reg="Birth Control Review, The">THE BIRTH CONTROL REVIEW</name>.
+            Said difficulties did not deter those who have made the publication a power for free
+            womanhood. The barring of an edition from the mails, far from discouraging us, has moved
+            us to new efforts. But it is possible that this first interference with the <title
+                type="journal">REVIEW</title> may have more significance than now appears to be the
+            case. The powers of reaction have recently taken away many of the reforms that American
+            women have won in fifty years of toil, hardship and sacrifice. Yesterday, the Federal
+            child labor legislation, such as it was, went to the scrap heap. Tomorrow, the attack
+            may be wider in its scope. As for the advocates of birth control, they intend to battle
+            in the first ditch, not the last one. With all that we have of inspiration, courage and
+            resource, we shall hold fast to what we have gained. We shall not let up in our fight on
+            the medieval in tolerance, which makes it possible to deny the mails of this country to
+            a message of woman's freedom.</p>
+        <p>The <person reg="Hylan, John Francis">Mayor</person> of <org
                 reg="New York Committee on Women on National Defense"><place reg="New York, NY">New
                     York's</place> Committee of Women on National Defense,</org> the <org
                 reg="New York City Department of Health, Division of Child Hygiene">Division of
@@ -86,7 +99,7 @@
             offspring might then have a chance to grow up in decency and the mother to preserve her
             health. If the philanthropic reformers have not thought of that solution of the problem,
             we call it to their attention.</p>
-        <p>THE CARE of the insane cost the <org reg="New York State">State of New York</org>
+        <p>The care of the insane cost the <org reg="New York State">State of New York</org>
             $8,320,000 last year. The total economic loss on the insane for the year is officially
             estimated at more than $35,000,000. The institutions for the insane in <place>New
                 York</place> are overcrowded to the extent of nearly 6,000 persons. There are
@@ -112,6 +125,5 @@
             effective means of saving this huge cost of money and human agony is still criminal. And
             so far as the committee is concerned, it prefers $35,000,000 worth of criminal prejudice
             upon the part of officials and lawmakers, to birth control.</p>
-
     </docBody>
 </doc>
