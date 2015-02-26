@@ -7,22 +7,22 @@
         <prepDate>2003/11/25 CH cleaned up tags and xrefs</prepDate>
         <prepDate>2007-05-30 CH Oxygen/cleanup</prepDate>
         <prepDate>2014-11-10 CH reg cleanup</prepDate>
-        <prepDate>2015-02-20 EK correct index 2</prepDate>
+        <prepDate>2015-02-20 EK correct index</prepDate>
         <docAuthor>Margaret Sanger</docAuthor>
         <docDate value="1911-11-26">26 Nov. 1911</docDate>
         <docTitle>
-            <titlePart>How Six Little Children Were Taught The Truth, Part V</titlePart>
+            <titlePart>How Six Little Children Were Taught The Truth, Part V-a</titlePart>
         </docTitle>
         <idno>msp320085</idno>
         <sourceDesc>
-            <bibl><title type="journal">New York Call,</title> Nov. 26, 1911</bibl>
+            <bibl><title type="journal">New York Call</title>, Nov. 26, 1911</bibl>
         </sourceDesc>
     </mepHeader>
     <headNote>
-        <p>This is Part 5 of an eight-part series of the same title. For Part 1, see <xref
-                from="320081.xml">Oct. 19, 1911</xref>, for Part 2, see <xref from="320082.xml">Nov.
-                5, 1911</xref>, for Part 3 see <xref from="320083.xml">Nov. 12, 1911</xref>, for
-            Part 4 see <xref from="320084.xml">Nov. 19, 1911</xref>, for the remainder of Part 5 see
+        <p>This is Part V-a of an eight-part series of the same title. For Part I, see <xref
+                from="320081.xml">Oct. 19, 1911</xref>, for Part II, see <xref from="320082.xml">Nov.
+                5, 1911</xref>, for Part III see <xref from="320083.xml">Nov. 12, 1911</xref>, for
+            Part IV see <xref from="320084.xml">Nov. 19, 1911</xref>, for the remainder of Part V see
                 <xref from="320086.xml">Dec. 3, 1911</xref>, for Part 6 see <xref from="320087.xml"
                 >Dec. 10, 1911.</xref>, and for Part 7, see <xref from="320088.xml">Dec. 17,
                 1911.</xref></p>

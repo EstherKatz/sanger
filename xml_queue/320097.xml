@@ -1,0 +1,37 @@
+<?xml version="1.0" encoding="UTF-8"?>
+
+<!DOCTYPE doc SYSTEM "meptei3xMSP.dtd">
+<doc type="Published article">
+    <mepHeader>
+        <prepDate>2001-10-24 MH</prepDate>
+        <prepDate>2002-08-20 KH</prepDate>
+        <prepDate>2003/11/25 CH cleaned up tags</prepDate>
+        <prepDate>2007-05-30 CH Oxygen/clean tags</prepDate>
+        <prepDate>2014-03-05 CH clean regs</prepDate>
+        <docAuthor>Margaret Sanger</docAuthor>
+        <docDate value="1911-11-22">22 Nov. 1911</docDate>
+        <docTitle>
+            <titlePart>Branch 5 Women to Organize</titlePart>
+        </docTitle>
+        <idno>msp320097</idno>
+        <sourceDesc>
+            <bibl><title type="journal">New York Call</title>, Nov. 22, 1911</bibl>
+        </sourceDesc>
+    </mepHeader>
+    <headNote>
+        <index level1="woman suffrage"/>
+        <index level1="socialism"/>
+    </headNote>
+    <docBody>
+        <head>Branch 5 Women to Organize.</head>
+        <p>There will be a meeting to-night of the women of <org reg="Socialist Party of New York "
+                >Branch 5</org>, held under the auspices of the <org>Women's Committee on Socialist
+                and Suffrage Propaganda</org> among women for the purpose of organizing the women of
+            Branch 5 into active service. The meeting will be held at the <org>Harlem Forum</org>,
+            360 West 125th Street (Pinken Building) at 8:15 p.m. sharp.</p>
+        <p>All Comrades who have sisters or wives and mothers, urge them to attend this meeting and
+            become interested in this work, which the Women's Committee is carrying on among the
+            women of <place reg="New York, NY">New York City</place>.</p>
+        <byline>MARGARET SANGER. WOMEN'S ORGANIZER.</byline>
+    </docBody>
+</doc>
