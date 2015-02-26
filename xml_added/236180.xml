@@ -1,0 +1,195 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE doc SYSTEM "meptei3xMSP.dtd">
+<doc type="Typed speech">
+	<mepHeader>
+		<prepDate>2009/07/06 CH 2010/03/10 AC</prepDate>
+		<prepDate>2013-11-25 CH integrate 236179 and make corrections</prepDate>
+		<prepDate>2014-08-21 CH Clean regs</prepDate>
+		<docAuthor><person reg="Sanger, Margaret">Margaret Sanger</person></docAuthor>
+		<docDate value="1935-03-14">14 Mar 1935</docDate>
+		<docTitle>
+			<titlePart><supplied resp="MSPP">Birth Control the Concern of
+				Youth</supplied></titlePart>
+		</docTitle>
+		<idno>msp236180</idno>
+		<sourceDesc>
+			<bibl>Margaret Sanger Papers, Sophia Smith Collection, Smith College</bibl>
+			<bibl><title>Margaret Sanger Papers Microfilm, Smith College Collection</title> S71:714
+				and 716</bibl>
+			<bibl><title type="article">Home, Family Under Scrutiny in Conference</title>," <title
+					type="journal">Boston Evening Transcript</title>, Mar. 14, 1935</bibl>
+		</sourceDesc>
+		<respStmt>
+			<resp/>
+			<name id="UNK">Unknown</name>
+			<name id="YMCA">Young Men's Christian Association</name>
+			<name id="BET">Boston Evening Transcript</name>
+		</respStmt>
+	</mepHeader>
+	<headNote resp="MSPP">
+		<p>Sanger gave an address at the <org>American Home and Youth Conference</org>, organized by
+			the <org>Massachusetts State Federation of Woman's Clubs</org>, in <place
+				reg="Boston, MA">Boston</place>'s <org>Statler Hotel</org>. at a <org
+				reg="Greater Boston Youth Conference">Youth Conference</org>. No complete version of
+			her speech has been found, below is text from a Mar. 14 press release, "Margaret Sanger
+			Addresses Youth Conference," with additional portions from an incomplete speech draft,
+			"Conference Speech," and an additional quote was taken from "Home, Family Under Scrutiny
+			in Conference." </p>
+		<index level1="Comstock, Anthony"/>
+		<index level1="birth control" level2="laws and legislation" level3="Comstock act"/>
+		<index level1="birth control" level2="laws and legislation" level3="Federal"/>
+		<index level1="obscenity"/>
+		<index level1="birth control" level2="youth and"/>
+		<index level1="birth control" level2="opposition to"/>
+		<index level1="birth control" level2="medical community and"/>
+	</headNote>
+	<docBody>
+		<div type="section">
+			<head>BIRTH CONTROL THE CONCERN OF YOUTH</head>
+			<head type="sub">Margaret Sanger addresses the Youth Conference</head>
+			<p> There is no group more deeply concerned with birth control and all it can do for
+				good and for ill than your generation, the men and women in their twenties, who will
+				shape tomorrow’s world. I suppose you are a bit tired of hearing of your
+				responsibility, and of how you will have to get the country out of the mess it is
+				in. I suppose you often want to shout back at us: “Why did you tangle it all up? Why
+				didn’t you manage better?”</p>
+			<p>We <emph rend="underline">should</emph> have managed better, and it is up to us to do
+				what we can to set things straight before we have to turn the whole affair over to
+				you young people. It may make you less impatient with us to remember that we too
+				have had to untangle confusion bequeathed to us by the generation that went before.
+				We have been busy, up to our ears in work, trying to rectify mistakes not entirely
+				of our own making.</p>
+			<p>A mistake that has worked incalculable harm, and that I have spent the best years of
+				my life trying to straighten out, was made by <person reg="Comstock, Anthony"
+					>Anthony Comstock</person> in 1873, when the laws were passed prohibiting the
+				sending of obscene literature through the mails. The overzealous Comstock made the
+				tragic mistake of classing contraception with obscenity, and the result has been
+				confusion worse confounded.</p>
+			<p>As you perhaps know, the Committee of which I am the president, the <org>National
+					Committee on Federal Legislation for Birth Control</org>, is seeking the
+				amendment of these Federal laws. The amendments, ( Senate Bill 600 and House Bill
+				5600) now before <org reg="United States Congress">Congress</org> would make it
+				possible for doctors, hospitals and licensed clinics to secure contraceptive
+				information.</p>
+			<p>
+				<person reg="Clarke, James Freeman">Someone</person> has said that the difference
+				between a statesman and a politician is that the statesman thinks of the next
+				generation and the politician thinks of the next election. By that definition I
+				wonder how many statesmen we can claim to have in this country, in our present
+				condition of relief and unemployment and misery, only to increase the population
+				which increases poverty, unemployment and misery.</p>
+			<p> Everyone knows that we are piling up enormous debts for future generations to pay.
+				But it is not only financial or money debts that I am referring to--such debts may be
+				easily cancelled–but it will not be so simple for future generations to wipe out of
+				existence the debt of inferior racial qualities that we are passing down to them, or
+				to wipe our a population with millions of morons and defectives which we are handing
+				down for our children’s children to manage.</p>
+			<p> You and your children will have to deal with these debts, with the results of the
+				petty acts of politicians. You must put pressure on our lawmakers to legislate for
+				the future, which belongs to you.</p>
+			<p> Some sort of birth control is being practiced today, and will continue to be
+				practiced. For birth control is here to stay. But which is better, you have a right
+				to ask your elders, your parents, your teachers and you congressmen: Bootleg,
+				uncertain and often harmful methods, promoted by commercial firms for profit, or
+				scientific, harmless, efficient methods prescribed by physicians for the best
+				interest of you and your children?</p>
+			<p> The political problems of today are the unsolved social and economic questions of
+				yesterday. We are trying to face them. The social and economic needs of today will
+				be the political problems of tomorrow. These are for you to face.</p>
+			<p>
+				<list>
+					<item>Ten Truths about Birth Control</item>
+					<item>1. Birth controllers are divided into two groups, the largest group are
+						those who want knowledge for themselves; another, though smaller group, is
+						those civic minded people who wish to see birth control used, for health and
+						economic reasons by those who need it.</item>
+					<item>2. Only a very small percentage of people who practice birth control are
+						perfectly satisfied with present day methods.</item>
+					<item>3. Research and the development of better methods are retarded by existing
+						restrictive laws.</item>
+					<item>4. These laws, which have been on the Federal Statute books since 1873,
+						still class prevention of conception with abortion and obscenity.</item>
+					<item> 5. Neither physicians, hospitals, nor medical books are exempt under this
+						law, and violations provide a penalty of five thousand dollars fine or five
+						years in prison or both. </item>
+					<item>6. The law, however, is unenforceable because there are thousands of
+						articles and drugs, that prevent conception and which may, at the same time,
+						be used for the prevention of disease.</item>
+					<item>7. This situation has given rise to bootleg manufacture and distribution
+						of contraceptives and has placed the matter in the hands of commercial firms
+						operating for profit rather than of physicians working for the public good. </item>
+					<item>8. If the <name type="law" reg="United States Criminal Code, Section 211">Criminal
+							Code</name> were amended, scientific birth control instruction could be
+						included in the public health program of the <org
+							reg="United States Government">Federal Government</org>, and physicians,
+						hospitals and clinics could secure supplies legally and give
+						information.</item>
+					<item>9. The knowledge of how to control the coming of children is necessary for
+						happy marriage.</item>
+					<item>10. The youth of <place reg="United States">America</place> should demand
+						this knowledge.</item>
+				</list></p>
+		</div>
+		<div type="section">
+			<head><supplied resp="MSPP">Conference Speech</supplied></head>
+			<p> As a result of the Comstock laws, birth control instead of being recognized for what
+				it really is, a fine, constructive thing, necessary for health and happiness, has
+				been besmirched and driven underground. Here is medical information, which should be
+				prescribed by physicians. Leading medical supply houses should be putting their best
+				talent to work in order that we might have ever better and ever less expensive
+				contraceptive supplies. Instead, up to the present time, birth control supplies are
+				a bootleg product, and their manufacture and sale does not come under the regulation
+				of any government agency.</p>
+			<p>What concern is all this of Youth? As the just married, or about-to-be-married
+				couples of today, as the mothers and fathers of the future, I think that you, more
+				than any other group should understand the present situation. Many young people
+				would marry today, and have all the joys that should rightly come to young
+				people--the start in life, the companionship, the chance to make of marriage a fine
+				and constructive force--if they could feel certain that they could postpone founding
+				a family without harm to themselves or to their future children. Many a girl would
+				follow her natural inclination and marry, if she did not fear the coming of
+				childbearing and baby tending before she was ready for them. The early months and
+				years of marriage should be a time of adjustment between a young man and woman. They
+				should learn to know each other first as comrades and human beings before assuming
+				the role of parents. </p>
+			<p>Many outstanding organizations of and for young people have taken a stand on birth
+				control. The <org reg="Young Men's Christian Association">Y.M.C.A.</org> at its
+				biennial convention last May, adopted a resolution in favor of “<q who="YMCA">social
+					legislation such as measures which will provide that the dissemination of birth
+					control information shall be placed under authorized medical direction.</q>”
+				Many local <org>Junior League</org>s have endorsed birth control and the Junior
+				League magazine has run several articles on the subject. The <org>National
+					Conference of Allied Youth</org>, sponsored by <org reg="Boy Scouts of America"
+					>Boy Scouts</org>, <org reg="Girl Scouts of America">Girl Scouts</org>,
+					<org>Camp Fire Girls</org>, YMCA and <org
+					reg="Young Women's Christian Association">YWCA</org>, and other youth
+				organizations, faced the issues squarely at its Youth Today dinner last fall. Should
+				young couples have children when they had no assurance of the child’s future, they
+				queried? Why is it not possible to obtain birth control information safely and
+				legally and decently?</p>
+			<p> Among the many letters that come to me, I received one the other day from a young
+				man who wrote: “<q who="UNK">I am thinking of getting married, and am not in a
+					position to have children. I know there are dozens of preparations on the
+					market, supposed to be alright. The question I am asking you is what is the
+					safest and the best way to prevent children until I am able to care for them. I
+					asked my doctor about this, and he went into a tirade about the fall of
+						<place>Greece</place> and <place reg="Rome, Italy">Rome</place>, and gave me
+					a lot of generalities which told me nothing.</q>”</p>
+			<p>You have a right to ask of us, the older generation, about these things. And it is
+				our duty to give you, not a lot of generalities about Greece and Rome, but the
+				scientific and helpful truth.” </p>
+		</div>
+		<div type="section">
+			<head>Home, Family Under Scrutiny in Conference</head>
+			<p>"Many young people would marry today and have all the joys that should rightly come
+				to young people--the start in life, the companionship, the change to make of
+				marriage a fine and constructive force--if they could feel certain that they could
+				postpone founding a family with out harm to themselves or their future children.
+				Many a girl would follow her natural inclinations and marry, if she did not fear the
+				coming of childbearing and baby tending before she was ready for them. The early
+				months and years of marriage should be a time of adjustment between a young man and
+				woman. They should learn to know each other first as comrades and human beings
+				before assuming the roles of parents.</p>
+		</div>
+	</docBody>
+</doc>
