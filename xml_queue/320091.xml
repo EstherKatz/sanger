@@ -1,0 +1,47 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE doc SYSTEM "meptei3xMSP.dtd">
+<doc type="Published Article">
+    <mepHeader>
+        <prepDate>2011-09-08 CH</prepDate>
+        <prepDate>2011-09-15 EK indexed</prepDate>
+        <prepDate>2014-03-26 CH clean regs</prepDate>
+        <docAuthor>Margaret Sanger</docAuthor>
+        <docDate value="1918-11-00">Nov. 1918</docDate>
+        <docTitle>
+            <titlePart>Birth Control A Parents' Problem or Woman's?</titlePart>
+        </docTitle>
+        <idno>msp320091</idno>
+        <sourceDesc>
+            <bibl><title type="journal">Birth Control Review</title>, Nov. 1918, p. 7.</bibl>
+        </sourceDesc>
+        <respStmt>
+            <resp/>
+            <name id="MBH">Unknown</name>
+        </respStmt>
+    </mepHeader>
+    <headNote resp="MSPP"><p>Margaret Sanger published this short note beneath a letter to the
+            editor written by "<person reg="Unknown">M. B. H.</person>" asking "<q who="MBH">Don't
+                you think you over emphasize the woman's side of the problem to the exclusion of the
+                man's?. . . . Shouldn't the instruction in the methods of Birth control be given to
+                men and more stress laid upon appealing to them to take this
+            responsibility?</q>"</p>
+        <p>For Sanger's published views, see "<xref from="226268.xml"><title type="article">A
+                    Parents' Problem or Women's?</title>," Mar. 1919.</xref></p>
+        <index level1="birth control" level2="movement" level3="goals and strategies"/>
+        <index level1="men" level2="reproductive choices and decisions"/>
+        <index level1="women" level2="reproductive choices and decisions"/>
+        <index level1="birth control" level2="methods" level3="instructions"/>
+    </headNote>
+    <docBody>
+        <p>We publish this letter from "M. B. H." because it raises a question bearing immediately
+            upon the direction which the Birth Control movement is to take.</p>
+        <p>We are well aware that there is a wide difference of opinion upon this matter. My own
+            convictions are very decided. I would like before expressing them, however, to give an
+            opportunity to others who may have something to say on the subject.</p>
+        <p>We will, therefore, devote a page of the next issue of <title type="journal">The Birth
+                Control Review</title> to this discussion. Please make your letters as short as
+            possible, so that everyone may have a hearing. In the issue following the publication of
+            the letters, I hope to state my own views.</p>
+        <byline><person reg="Sanger, Margaret">M. H. S.</person></byline>
+    </docBody>
+</doc>

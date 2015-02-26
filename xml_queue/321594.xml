@@ -1,0 +1,63 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE doc SYSTEM "meptei3xMSP.dtd">
+<doc type="Published speech">
+    <mepHeader>
+        <prepDate>2012-05-30 AW Initial Tag</prepDate>
+        <prepDate>2014-04-10 CH clean regs</prepDate>
+        <docAuthor>Margaret Sanger</docAuthor>
+        <docDate value="1917-01-29">29 Jan 1917</docDate>
+        <docTitle>
+            <titlePart>Mass Meeting for Birth Control Address</titlePart>
+        </docTitle>
+        <idno>msp321954</idno>
+        <sourceDesc>
+            <bibl><title type="journal">New York Times</title>, Jan. 30, 1917</bibl>
+        </sourceDesc>
+        <respStmt>
+            <resp/>
+            <name/>
+        </respStmt>
+    </mepHeader>
+    <headNote resp="MSPP">
+        <p>Sanger gave this address, after discarding her prepared statement, at the Mass Meeting
+            for Birth Control, held at <org>Carnegie Hall</org> in <place reg="New York, NY">New
+                York City</place>. Attended by three thousand, largely women, the meeting was to
+            support Sanger during her <org reg="Brownsville Birth Control Clinic">Brownsville
+                Clinic</org> trial. Others speaking included Dr. <person reg="Hurt, Mary">Mary
+                Hurt</person> and <person reg="Todd, Helen">Helen Todd</person>.</p>
+        <p>For a partial draft of <person reg="Sanger, Margaret">Sanger</person>'s prepared
+            statement, see <xref from="143430.xml">"Carnegie Hall Speech Notes, Jan. 29,
+                1917."</xref></p>
+        <index level1="birth control"/>
+        <index level1="birth control" level2="clinics and leagues"/>
+        <index level1="Brownsville Clinic"/>
+        <index level1="Brownsville Clinic" level2="publicity"/>
+        <index level1="family size"/>
+    </headNote>
+    <docBody>
+        <p>I come to you tonight from a crowded courtroom, from a vortex of persecution. I come not
+            from the stake of <place reg="Salem, MA">Salem</place>, where women were burned for
+            blasphemy, but from the shadow of <org reg="Blackwell Island Penitentiery">Blackwell’s
+                Island</org>, where women are tortured for ‘obscenity.’</p>
+        <p>Birth control is the one means by which the working man shall find emancipation. I was
+            one of eleven children. My mother died when I was 17 because she had had too many
+            children and had worked herself to death. I became a nurse to help support my family,
+            and I soon discovered that 75 per cent. of the diseases of men and women are due to sex
+            ignorance. I determined that the average person was as ignorant of sex matters as our
+            most primitive ancestors. There has been progress in every department of our lives
+            except in the most important--creation. So I came to the conclusion that the greatest
+            good I could do was to help poor women to have fewer children to be brought up in want
+            and poverty. I threw my nurse’s bag away and swore I would take it up no more. I went to
+                <place>Europe</place> and studied the birth control clinics there and came back to
+                <place reg="United States">America</place> to do what I could.</p>
+        <p>Colonel <person reg="Roosevelt, Theodore">Roosevelt</person> goes all about the country
+            telling people to have large families and he is neither arrested nor molested. But can
+            he tell me why I got sixty-three letters in one week from poor mothers in <place
+                reg="Oyster Bay, NY">Oyster Bay</place> asking me for birth control information? No
+            woman can call herself free until she can choose the time she will become a mother.</p>
+        <p>My purpose in life is to arouse sentiment for the repeal of the law, State and Federal.
+            It is we women who have paid for the folly of this law, and it is up to us to repeal it.
+            It is only by birth control that woman can prepare with man, her brother, for the
+            emancipation of the race.</p>
+    </docBody>
+</doc>

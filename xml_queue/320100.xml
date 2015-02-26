@@ -1,0 +1,41 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE doc SYSTEM "meptei3xMSP.dtd">
+<doc type="Published article">
+    <mepHeader>
+        <prepDate>2001-10-25 MH</prepDate>
+        <prepDate>2002-08-20 KH</prepDate>
+        <prepDate>2003/11/25 CH cleaned up tags</prepDate>
+        <prepDate>2007-05-30 CH Oxygen cleanup</prepDate>
+        <prepDate>2014-03-05 CH clean regs</prepDate>
+        <prepDate>2015-02-20 EK correct index</prepDate>
+        <docAuthor>Margaret Sanger</docAuthor>
+        <docDate value="1911-12-11">11 Dec 1911</docDate>
+        <docTitle>
+            <titlePart>Branch 5 Women to Meet</titlePart>
+        </docTitle>
+        <idno>msp320100</idno>
+        <sourceDesc>
+            <bibl><title type="journal">New York Call</title>, Dec. 11, 1911</bibl>
+        </sourceDesc>
+    </mepHeader>
+    <headNote>
+        <index level1="woman suffrage"/>
+        <index level1="Socialist Party"/>
+    </headNote>
+    <docBody>
+        <head>BRANCH 5 WOMEN TO MEET.</head>
+        <p>There will be a business meeting of the women of <org
+                reg="Socialist Party of New York City">Branch 5</org> on Wednesday, December 13, at
+            8 p.m., in the <org>Harlem Forum</org>, 360 West 125th Street. All women Comrades who
+            have had lists of the Socialist men Comrades, and the enrolled voters, to call on them
+            and interest the wives and women of the family, will please attend this meeting and
+            report of the results you have had. If you have not seen all on your list try to do so
+            before Wednesday, so that you can take up other work.</p>
+        <p>The work is to be divided into districts with a woman organizer to every assembly
+            district, who will subdivide the work into election districts. In this way the whole
+            territory of the branch can be covered, and with a woman organizer of the branch the
+            work can be carried on in conjunction with the general work of the branch in a
+            systematic way.</p>
+        <byline><person reg="Sanger, Margaret">Margaret Sanger</person>. Women's Organizer.</byline>
+    </docBody>
+</doc>

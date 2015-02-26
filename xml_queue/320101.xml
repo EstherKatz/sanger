@@ -1,0 +1,36 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE doc SYSTEM "meptei3xMSP.dtd">
+<doc type="Published article">
+    <mepHeader>
+        <prepDate>2001-10-25 MH</prepDate>
+        <prepDate>2002-08-20 KH</prepDate>
+        <prepDate>2003/12/08 CH fixed codes</prepDate>
+        <prepDate>2007-05-30 CH Oxygen cleanup</prepDate>
+        <prepDate>2014-03-05 CH correcting regs</prepDate>
+        <docAuthor>Margaret Sanger</docAuthor>
+        <docDate value="1911-12-19">19 Dec 1911</docDate>
+        <docTitle>
+            <titlePart>Meeting of Women's Committee</titlePart>
+        </docTitle>
+        <idno>msp320101</idno>
+        <sourceDesc>
+            <bibl><title type="journal">New York Call</title>, Dec. 19, 1911</bibl>
+        </sourceDesc>
+        <respStmt>
+            <resp/>
+        </respStmt>
+    </mepHeader>
+    <headNote>
+        <index level1="women" level2="freedom and rights of"/>
+    </headNote>
+    <docBody>
+        <head>Meeting of Women's Committee.</head>
+        <p>There will be a meeting tomorrow (Wednesday) night of the <org
+                reg="Socialist Party of New York, Women's Committee">Women's Committee</org>, at the
+                <org>Labor Temple</org>. Every member is urged to attend this meeting. There were
+            not sufficient members present at the last meeting to hold a meeting. Consequently work
+            is piling up to be passed upon. Please be prompt, 8 o'clock.</p>
+        <byline><person reg="Sanger, Margaret">Margaret H. Sanger</person>, Women's
+            Organizer.</byline>
+    </docBody>
+</doc>

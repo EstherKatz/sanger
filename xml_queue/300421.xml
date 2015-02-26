@@ -1,10 +1,9 @@
 <?xml version="1.0" encoding="UTF-8"?>
-<!DOCTYPE doc SYSTEM "../not%20xml/meptei3xMSP.dtd">
+<!DOCTYPE doc SYSTEM "meptei3xMSP.dtd">
 <doc type="Published statement">
     <mepHeader>
         <prepDate>2014/06/26 CH proofed</prepDate>
         <prepDate>2015 clean regs + correct proof EK</prepDate>
-            <prepDate>2015-02-24 EK correct index</prepDate>
         <docAuthor>Margaret Sanger</docAuthor>
         <docDate value="1912-03-05"> 5 Mar. 1912</docDate>
         <docTitle>
@@ -13,7 +12,7 @@
         <idno>msp300421</idno>
         <sourceDesc>
             <bibl><title>House of Representatives Records,</title> National Archives</bibl>
-            <bibl><title type="mf">Margaret Sanger Microfilm, Collected Documents,</title> C15:0019</bibl>
+            <bibl><title>Margaret Sanger Microfilm, Collected Documents</title> C15:19</bibl>
         </sourceDesc>
         <respStmt>
             <resp/>
@@ -31,11 +30,11 @@
     <headNote resp="MSPP"><p>Sanger was asked to testify before the House of Representatives in
             Washington, D.C. about her role in supporting the striking workers in Lawrence, MA.</p>
         <index level1="labor movement" level2="strikes" level3="Lawrence, MA (1912)"/>
+        <index level1="labor movement" level2="strikes"/>
         <index level1="child labor"/>
         <index level1="child welfare"/>
+        <index level1="United States Congress" level2="House of Representatives"/>
         <index level1="Sanger, Margaret" level2="as a nurse"/>
-        <index level1="Socialist Party"/>   
-        <index level1="United States Congress" level2="House of Representatives"/>             
     </headNote>
     <docBody>
         <head>TESTIMONY ON THE STRIKE AT LAWRENCE, MASS.</head>
