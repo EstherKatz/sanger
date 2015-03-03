@@ -8,6 +8,7 @@
 		<prepDate>2007-05-30 CH Oxygen cleanup</prepDate>
 		<prepDate>2014-03-05 CH correct regs</prepDate>
 		<prepDate>2015-01-06 CH proof tags and enter</prepDate>
+		<prepDate>2015-03-03 EK update index</prepDate>
 		<docAuthor>Margaret Sanger</docAuthor>
 		<docDate value="1912-05-20">20 May 1912</docDate>
 		<docTitle>
@@ -26,9 +27,11 @@
 		</respStmt>
 	</mepHeader>
 	<headNote>
-		<index level1="socialism"/>
-		<index level1="working classes" level2="revolution and"/>
-		<index level1="labor movement"/>
+		<index level1="capitalism"/>
+		<index level1="labor movement" level2="strikes" level3="Lawrence, MA, 1912"/>
+		<index level1="radicals and radicalism" level2="suppression of"/>
+		<index level1="socialism and socialists"/>
+		<index level1="working classes" level2="and revolution"/>
 	</headNote>
 	<docBody>
 		<p>There was a trial going on in the courthouse at <place reg="Salem, MA">Salem,
