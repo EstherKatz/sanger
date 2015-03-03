@@ -1,10 +1,10 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <!DOCTYPE doc SYSTEM "meptei3xMSP.dtd">
-<doc type="Published Editorial">
+<doc type="Published article">
     <mepHeader>
         <prepDate>2014/07/15 AS encoded</prepDate>
         <prepDate>2014-08-15 CH correct and edit</prepDate>
-        <prepDate>2015-02-26 EK correct proof and index</prepDate>
+        <prepDate>2015-02-26 EK correct proofs and index</prepDate>
         <docAuthor>Margaret Sanger</docAuthor>
         <docDate value="1918/09/00">Sept. 1918</docDate>
         <docTitle>
@@ -13,7 +13,7 @@
         </docTitle>
         <idno>msp422029</idno>
         <sourceDesc>
-            <bibl>t<title type="journal">Birth Control Review</title>, Sept. 1918, p.9</bibl>
+            <bibl>t<title type="journal">Birth Control Review</title>, Sept. 1918, p. 9</bibl>
         </sourceDesc>
         <respStmt>
             <resp/>
